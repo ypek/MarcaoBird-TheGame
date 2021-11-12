@@ -1,6 +1,2 @@
-{'name': 'daniel', 'email': 'ypek@email.com', 'score': 0}
-{'name': 'daniel', 'email': 'ypek@email.com', 'score': 0}
-{'name': 'dani', 'email': 'dani@dani.com', 'score': 0}
-{'name': 'dani', 'email': 'dani@dani.com', 'score': 0}
-{'name': 'DU', 'email': 'DU', 'score': 0}
-{'name': 'DU', 'email': 'DU', 'score': 0}
+{'name': 'daniel', 'email': 'daniel@daniel.com', 'score': 0}
+{'name': 'daniel', 'email': 'daniel@daniel.com', 'score': 0}
