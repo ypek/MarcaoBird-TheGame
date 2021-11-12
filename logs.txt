@@ -1,2 +1,0 @@
-{'name': 'daniel', 'email': 'daniel@daniel.com', 'score': 0}
-{'name': 'daniel', 'email': 'daniel@daniel.com', 'score': 0}
